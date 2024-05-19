@@ -19,4 +19,8 @@ This script will also convert the above queries to Pandas DataFrames.
    
 
 ## Credits:
+<<<<<<< HEAD
 This code was compiled and written by me for the html scraping challenge class homework in the 2024 Data Analytics Boot Camp hosted by Monash University. 
+=======
+This code was compiled and written by me for the html scraping challenge class homework in the 2024 Data Analytics Boot Camp hosted by Monash University.
+>>>>>>> c733a9bad2a1ebf99c8b8564a746742fe3db7424
