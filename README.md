@@ -3,7 +3,7 @@ Data on restaurant establishments across the United Kingdom were analysed to exp
 
 
 ## Project Description:
-Raw data has been saved as **establishments,json**, located within the **Resources** subfolder. 
+Raw data has been saved as **establishments.json**, located within the **Resources** subfolder. 
 
 
 ## Installation and Run Instructions:
